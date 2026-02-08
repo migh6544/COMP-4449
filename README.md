@@ -14,3 +14,6 @@ CNN-based models significantly outperform classical baselines.
 ## Reproducibility
 Install dependencies:
 pip install -r requirements.txt
+
+## Data
+Link: https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database
