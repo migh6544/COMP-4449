@@ -1,0 +1,14 @@
+# Core numerical computing
+numpy>=1.23,<2.0
+
+# Deep learning framework
+tensorflow>=2.13,<2.17
+
+# Classical machine learning
+scikit-learn>=1.2,<1.5
+
+# Visualization
+matplotlib>=3.7,<3.9
+
+# HTTP utilities (used indirectly, explicitly imported)
+urllib3>=1.26,<3.0
