@@ -1,0 +1,20 @@
+
+name: steel-defect-ai
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pillow
+  - pip
+  - pip:
+      - tensorflow
+      - ultralytics
+      - opencv-python
+      - tqdm

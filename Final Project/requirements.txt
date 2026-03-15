@@ -1,0 +1,11 @@
+
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+ultralytics
+pillow
+tqdm
+seaborn
